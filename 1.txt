@@ -2,4 +2,7 @@
 2-git
 3-svn add
 4-git add ---use git's
+4-git add ---use git's4-git add ---use git's
 5-git add
+
+svn must modify
