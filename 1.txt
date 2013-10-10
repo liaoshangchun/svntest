@@ -9,3 +9,5 @@ svn must modify
 
 6-git add 1
 7-git add 2
+8-git add test
+9-git add test too
