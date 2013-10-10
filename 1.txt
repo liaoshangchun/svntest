@@ -13,3 +13,5 @@ svn must modify
 9-git add test too
 10- git 1
 11- git 2
+
+12- svn commit
