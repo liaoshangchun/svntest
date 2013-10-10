@@ -6,3 +6,6 @@
 5-git add
 
 svn must modify
+
+6-git add 1
+7-git add 2
