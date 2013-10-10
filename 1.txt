@@ -12,3 +12,4 @@ svn must modify
 8-git add test
 9-git add test too
 10- git 1
+11- git 2
