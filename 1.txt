@@ -17,6 +17,8 @@ svn must modify
 12- svn commit
 13- git commit
 14- git commit
+14- git commit
+15- modify by git branch1
 15- modify by git master
 13- git commit
 14- git commit
