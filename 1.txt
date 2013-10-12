@@ -16,5 +16,7 @@ svn must modify
 
 12- svn commit
 13- git commit
+13- git commit
+14- git commit
 
 £¿£¿svn
