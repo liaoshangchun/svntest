@@ -14,6 +14,7 @@ svn must modify
 10- git 1
 11- git 2
 
+<<<<<<< HEAD
 12- svn commit
 13- git commit
 14- git commit
@@ -26,3 +27,6 @@ svn must modify
 £¿£¿svn
 
 new1 - git commit
+=======
+12- svn commit
+>>>>>>> 596553a61fa5218780f943111aee80572b54a1ef
